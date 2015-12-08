@@ -33,3 +33,6 @@ script:
   # TODO - get the test working. Probably need to add a virtual host.
   # Request a page via Nginx, to make sure Nginx is running and responds.
   # - "curl http://localhost/"
+notification:
+ email:
+   - junjunjam@gmail.com
